@@ -1,0 +1,37 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/Grayson/Desktop/code/Build-Site/buildsite/obj/Debug/net9.0/scopedcss/projectbundle/buildsite.bundle.scp.css",
+      "PackagePath": "staticwebassets/buildsite.s10hnnhu39.bundle.scp.css"
+    },
+    {
+      "Id": "/Users/Grayson/Desktop/code/Build-Site/buildsite/wwwroot/app.css",
+      "PackagePath": "staticwebassets/app.css"
+    },
+    {
+      "Id": "/Users/Grayson/Desktop/code/Build-Site/buildsite/wwwroot/css.css",
+      "PackagePath": "staticwebassets/css.css"
+    },
+    {
+      "Id": "obj/Debug/net9.0/staticwebassets/msbuild.build.buildsite.props",
+      "PackagePath": "build\\buildsite.props"
+    },
+    {
+      "Id": "obj/Debug/net9.0/staticwebassets/msbuild.buildMultiTargeting.buildsite.props",
+      "PackagePath": "buildMultiTargeting\\buildsite.props"
+    },
+    {
+      "Id": "obj/Debug/net9.0/staticwebassets/msbuild.buildTransitive.buildsite.props",
+      "PackagePath": "buildTransitive\\buildsite.props"
+    },
+    {
+      "Id": "obj/Debug/net9.0/staticwebassets/msbuild.buildsite.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj/Debug/net9.0/staticwebassets/msbuild.buildsite.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
