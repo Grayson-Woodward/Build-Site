@@ -33,4 +33,4 @@
 /Users/Grayson/Desktop/code/Build-Site/buildsite/obj/Debug/net9.0/buildsite.pdb
 /Users/Grayson/Desktop/code/Build-Site/buildsite/obj/Debug/net9.0/buildsite.genruntimeconfig.cache
 /Users/Grayson/Desktop/code/Build-Site/buildsite/obj/Debug/net9.0/ref/buildsite.dll
-/Users/Grayson/Desktop/code/Build-Site/buildsite/obj/Debug/net9.0/compressed/fca0yowjny-h8jxstv57c.gz
+/Users/Grayson/Desktop/code/Build-Site/buildsite/obj/Debug/net9.0/compressed/fca0yowjny-6lqjtlu9gw.gz

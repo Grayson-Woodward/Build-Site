@@ -78,6 +78,17 @@ tbody tr:nth-child(odd) {
     box-shadow: 3px 3px 8px #D2D2D2;
 }
 
+@media (max-width: 600px) {
+    .three-box-container {
+        flex-direction: column;
+        padding: 1rem;
+    }
+
+    .card {
+        width: 100%;
+    }
+}
+
 .card-header {
     background-color: #333333;
     height: 2rem;
